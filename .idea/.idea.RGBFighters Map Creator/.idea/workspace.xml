@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58598479-19be-4d7d-85fd-403b1f058e30" name="Default Changelist" comment="" />
+    <list default="true" id="58598479-19be-4d7d-85fd-403b1f058e30" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1fHnHP9GeGMTqlCRV8eRchIGWXp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -43,11 +55,21 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="799" y="417" key="Github.ShareDialog" timestamp="1595883886939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="799" y="417" key="Github.ShareDialog/0.0.1920.1040/-1920.0.1920.1160@0.0.1920.1040" timestamp="1595883886939" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1595883805833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1160@0.0.1920.1040" timestamp="1595883805833" />
+    <state x="736" y="254" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1595883835094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="254" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040/-1920.0.1920.1160@0.0.1920.1040" timestamp="1595883835094" />
   </component>
 </project>
